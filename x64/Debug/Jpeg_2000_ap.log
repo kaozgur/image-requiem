@@ -1,0 +1,57 @@
+﻿  Jpeg_2000_ap.cpp
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(97,157): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(100,158): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(103,158): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(106,158): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(154,51): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(155,55): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(156,55): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(157,59): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(229,47): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(230,47): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(231,47): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(247,45): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(270,128): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(271,45): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\Jpeg_2000_ap.cpp(272,45): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=uchar
+          ]
+  Jpeg_2000_ap.vcxproj -> C:\Users\ozgur\OneDrive\Masaüstü\Jpeg_2000_ap\x64\Debug\Jpeg_2000_ap.exe
